@@ -21,7 +21,7 @@
 
 {
     'name': "Odoo Custom Reports",
-    'author': 'SIMI Technologies',
+    'author': 'Jessy Ledama',
     'category': 'reports',
     'summary': """ Cutom PDF and Excel Reports """,
     'website': 'http://www.simitechnologies.co.ke',
